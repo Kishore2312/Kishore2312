@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kishore S D
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Analytics/Data Science
 - 🌱 I’m currently learning Python programming.
 
 <!---
